@@ -2,7 +2,6 @@
 const monthlyRent = 500;
 let yearlyRent = monthlyRent + 12;
 console.log(yearlyRent);
-
 yearlyRent = 1;
 console.log(yearlyRent);
 const firstName = "Maureen";
